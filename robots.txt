@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://baetca.github.io/dCc/sitemap.dCc.gz
